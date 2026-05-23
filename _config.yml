@@ -1,0 +1,12 @@
+title: fajriluckyboy
+email: fajriluckyboy@example.com
+description: >-
+  Blog dan dokumentasi belajar Git & GitHub
+  dari Termux Android.
+baseurl: ""
+url: "https://fajriluckyboy.github.io"
+github_username: fajriluckyboy
+
+theme: minima
+plugins:
+  - jekyll-feed
